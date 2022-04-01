@@ -17,6 +17,8 @@
     text-decoration: none;
     font-size: 17px;
     border-color: white;
+    font-weight: 50;
+    font-family: monospace;
   }
   
   /* Change the color of links on hover */
