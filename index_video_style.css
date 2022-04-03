@@ -1,8 +1,6 @@
-.foto_style {
-  position: relative;
-  display: inline-block;
-  padding-left: 10px;
-  padding-top: 10px;
+.iframe_video{
+    padding-left: 10px;
+    padding-top: 10px;
 }
 <!--Hiding Scrollbar-->
 .container5 {
