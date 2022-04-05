@@ -1,0 +1,19 @@
+.foto_style {
+  position: relative;
+  display: inline-block;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+<!--Hiding Scrollbar-->
+.container5 {
+  overflow-y: scroll;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+.container5::-webkit-scrollbar { /* WebKit */
+  width: 0;
+  height: 0;
+}
+::-webkit-scrollbar {
+  display: none;
+}
