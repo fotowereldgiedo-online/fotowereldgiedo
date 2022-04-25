@@ -1,11 +1,14 @@
-.Welkomtext_Home{
+.Welkomtext_Home
+{
     text-align: center;
     font-family: monospace;
     font-size: 50px;
     padding-top: 15px;
     text-decoration: underline;
 }
-.text_title_Home{
+
+.text_title_Home
+{
     text-align: left;
     font-family: monospace;
     font-size: 25px;
@@ -13,7 +16,9 @@
     padding-left: 10px;
     border-bottom: 3px solid red;
 }
-.text_Home{
+
+.text_Home
+{
     text-align: left;
     font-family: monospace;
     font-size: 20px;
@@ -21,23 +26,30 @@
     padding-left: 10px;
 }
 
-*{
+*
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-  }
-  .container3{
+}
+
+.container3
+{
     color: rgb(22, 165, 58);
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  .container3 h1{
+}
+  
+.container3 h1
+{
     font-size: 50px;
     font-weight: 600;
     padding-top: 15px;
-  }
-  span{
+}
+  
+span
+{
     color: #e90c0c;
-  }
+}
